@@ -1,5 +1,9 @@
 ## Hi there 👋
+Hi, I'm Muhammad Siraj, a Computer Science student at Universiti Teknologi PETRONAS with a strong interest in software development, data analytics, and technology-driven solutions.
 
+I enjoy building practical applications such as database systems, AI-powered tools, and interactive programs using languages like Python, Java, C++, JavaScript, and TypeScript. Through my academic projects and hackathons, I have gained experience in software development, networking, and problem solving.
+
+I am always eager to learn new technologies and apply them to solve real-world problems. Currently, I am looking forward to gaining industry experience through internships and collaborative tech projects.
 <!--
 **sirajrafi/sirajrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
